@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/conceptile-react-assignment/static/css/main.8dc29277.css",
+    "main.js": "/conceptile-react-assignment/static/js/main.6166d9c4.js",
+    "index.html": "/conceptile-react-assignment/index.html",
+    "main.8dc29277.css.map": "/conceptile-react-assignment/static/css/main.8dc29277.css.map",
+    "main.6166d9c4.js.map": "/conceptile-react-assignment/static/js/main.6166d9c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dc29277.css",
+    "static/js/main.6166d9c4.js"
+  ]
+}
