@@ -16,7 +16,7 @@ const initialData = {
     {
       name: "Introduction to WEB rtc",
       instructor: "Shakti",
-      duration: "3 weeks",
+      duration: "3 Months",
     },
   ],
 };
